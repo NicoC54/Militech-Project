@@ -1,6 +1,6 @@
 # <p align="center"><ins> Rapport Séance 2:
 
-##### 21 novemebre 2023
+##### 21 novemebre 202
 
 ### <ins>Résumé:
 Durant cette séance mon but principal est de continuer le travail sur la détection faciale, tout en développant le code qui permet l'identification de la personne captée par la caméra .
