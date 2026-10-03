@@ -1,15 +1,15 @@
 <p align="center">
-  <!-- Vue de gauche, recentrée -->
+  <!-- Vue de gauche, statique -->
   <img src="image.png" alt="Militech Robot Left View" width="30%">
   <!-- Un peu d'espace vide pour créer l'effet de décalage -->
   &nbsp; &nbsp; &nbsp;
-  <!-- Vue de droite, recentrée -->
+  <!-- Vue de droite, statique -->
   <img src="image-2.png" alt="Militech Robot Right View" width="28.7%">
 </p>
 
 <p align="center">
-  <!-- Vue du milieu, abaissée et agrandie -->
-  <img src="image-1.png" alt="Militech Robot Center View" width="60%">
+  <!-- LE GIF ANIMÉ AU CENTRE (Remplace image-1.png) -->
+  <img src="Militech.gif" alt="Militech Robot Demo" width="60%">
 </p>
 
 At the forefront of technological innovation and the continual evolution of warfare machines, the Militech robot appears to be a plausible solution for the future of modern warfare. Equipped with four formidable tracks enabling all-terrain mobility, this robot is specifically designed to meet crucial strategic needs on the battlefield.
