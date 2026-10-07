@@ -12,8 +12,6 @@
   <img src="Militech.gif" alt="Militech Robot Demo" width="60%">
 </p>
 
-At the forefront of technological innovation and the continual evolution of warfare machines, the Militech robot appears to be a plausible solution for the future of modern warfare. Equipped with four formidable tracks enabling all-terrain mobility, this robot is specifically designed to meet crucial strategic needs on the battlefield.
-
 ## Project Timeline & Contributions
 
 * **September 2024 (Project Launch):** The project officially started with the design and construction of a tracked military robot chassis, motorization, obstacle detection and avoidance algorithms, and an electromagnetic railgun built with the assistance of a teaching assistant (handled by Nicolas Consalvi), alongside target detection and computer vision systems (handled by Youssef Miri).
